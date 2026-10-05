@@ -6,7 +6,7 @@
 <h1 align="center">Hello, I'm <span style="background: linear-gradient(90deg, #7DD3FC, #C084FC); -webkit-background-clip: text; color: transparent;">Abir</span></h1>
 
 <p align="center">
-  <strong>Android Developer</strong> • <strong>Competitive Programmer</strong> • <strong>SWE Student</strong>
+  <strong>Full Stack Developer</strong> •<strong>Android Developer</strong> • <strong>Competitive Programmer</strong> • <strong>SWE Student</strong>
 </p>
 
 <p align="center">
