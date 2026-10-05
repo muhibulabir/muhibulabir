@@ -41,9 +41,6 @@ I’m Abir, a software engineering student with a passion for Android developmen
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhibulabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhibulabir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## Tech Stack
 
