@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="assets/banner.png" alt="Abir banner" width="100%" />
 </p>
@@ -31,7 +31,7 @@ I’m Abir, a software engineering student with a passion for Android developmen
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,java,python,cpp,js,ts,react,nextjs,nodejs,git,figma,postman" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,js,ts,react,nextjs,nodejs,git,figma,postman" alt="Skills" />
 </p>
 
 ## GitHub Stats
@@ -59,21 +59,3 @@ I’m Abir, a software engineering student with a passion for Android developmen
 <p align="center">
   <i>Always learning, building, and growing one project at a time.</i>
 </p>
-=======
-## Hi there 👋
-
-<!--
-**muhibulabir/muhibulabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> origin/main
